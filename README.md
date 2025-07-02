@@ -59,7 +59,7 @@ L’objectif de ce projet est de construire un **premier tableau de bord décisi
 - Chiffre d'affaires, taux de rebond, panier moyen, produits en stock dormant, etc.
 
 ### 5. Réalisation du tableau de bord Power BI
-- 4 vues : Vue globale, Vue client, Vue marketing, Vue alertes
+- 5 vues : Vue globale, Vue client, Vue marketing, Vue alertes et Conjoncture
 
 ### 6. Enrichissement avec données externes
 - Utilisation de sources comme **INSEE**, **Google Trends**, **météo**, etc.
