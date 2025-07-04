@@ -23,17 +23,19 @@ L’objectif de ce projet est de construire un **premier tableau de bord décisi
 │   └── dashboard_styleesh.pbix
 ├── data/
 │   ├── open_data/
-│   │   ├── reve-conso-evo-dep-pa.xlsx
+│   │   └── reve-conso-evo-dep-pa.xlsx
 │   ├── provided_data/
 │   │   ├── customers.csv
 │   │   ├── products.csv
 │   │   ├── sales.csv
 │   │   └── website_traffic.csv
 ├── schema/
+│   ├── Analytical database schema (star model).jpg
 │   └── Analytical database schema (star model).drawio
 ├── statement/
 │   └── MBA1 Big Data workshop statement.docx
 ├── Dossier final - Styleesh.docx
+├── Dossier final - Styleesh.pdf
 └── README.md
 ```
 
